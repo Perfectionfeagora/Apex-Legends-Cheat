@@ -1,6 +1,6 @@
 <div align="center">
 
-# Apex Legends Runtime Analysis Kit
+# Apex Legends Cheat
 
 > **Modular instrumentation framework for studying real-time memory behavior in Apex Legends.**
 
@@ -42,7 +42,7 @@ Get the latest release from the **[Releases](https://github.com/yourname/pubg-to
 
 ## ▸ overview
 
-**Apex Legends Runtime Analysis Kit (ARAK)** is an external instrumentation framework for observing and modifying runtime state in Apex Legends. Built for reverse-engineering research and private sandbox experimentation, it provides a modular interface for inspecting memory structures, simulating state changes, and analyzing gameplay parameters.
+**Apex Legends Cheat** is an external instrumentation framework for observing and modifying runtime state in Apex Legends. Built for reverse-engineering research and private sandbox experimentation, it provides a modular interface for inspecting memory structures, simulating state changes, and analyzing gameplay parameters.
 
 > ⚠️ **disclaimer:** intended for educational and private use only. authors are not responsible for misuse in public multiplayer environments.
 
